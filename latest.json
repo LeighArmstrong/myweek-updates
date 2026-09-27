@@ -1,14 +1,16 @@
 {
-    "versionName":  "0.35.1-qa.16",
-    "versionCode":  35016,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.16/My_Week_0.35.1_16_Fresh.apk",
-    "sha256":  "e2ce0455a847d108307716c9e82247f9993208459dc1721a0de2166496b053ea",
-    "releaseNotes":  [
-                         "Broader cupboard ingredient catalogue with safer aliases and recipe links",
-                         "Multiple lunch style preferences with one practical lunch chosen for the week",
-                         "More simple everyday lunch choices including sandwiches, wraps and soups",
-                         "Built in verified Android updates",
-                         "Google AI Mode for ingredient alternatives",
-                         "Improved iOS and web app parity including on device receipt reading"
-                     ]
+  "versionName": "0.35.1-qa.17",
+  "versionCode": 35017,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.17/My_Week_0.35.1_17_Fresh.apk",
+  "sha256": "1cc8c2350da4b2c50dbeadac1ce1ce1b0ca97475c39a180d53a72e048c6284fd",
+  "releaseNotes": [
+    "Broader cupboard ingredient catalogue with safer aliases, duplicate prevention and recipe links",
+    "Multiple lunch style preferences with practical sandwiches, wraps, soups and bulk friendly choices",
+    "Safe retail minimum handling when a recipe uses human measures such as handfuls, leaves or slices",
+    "Fresh basil and basil pesto remain separate shopping ingredients",
+    "Cleaner recipe instructions with source placeholders normalised for the selected portions",
+    "Improved phone landscape layout, cupboard alignment and guided cooking visibility",
+    "Built in verified Android updates plus installable iOS and web PWA parity",
+    "Google AI Mode for user requested ingredient alternatives"
+  ]
 }
