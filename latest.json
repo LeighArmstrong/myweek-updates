@@ -1,16 +1,14 @@
 {
-  "versionName": "0.35.1-qa.17",
-  "versionCode": 35017,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.17/My_Week_0.35.1_17_Fresh.apk",
-  "sha256": "1cc8c2350da4b2c50dbeadac1ce1ce1b0ca97475c39a180d53a72e048c6284fd",
-  "releaseNotes": [
-    "Broader cupboard ingredient catalogue with safer aliases, duplicate prevention and recipe links",
-    "Multiple lunch style preferences with practical sandwiches, wraps, soups and bulk friendly choices",
-    "Safe retail minimum handling when a recipe uses human measures such as handfuls, leaves or slices",
-    "Fresh basil and basil pesto remain separate shopping ingredients",
-    "Cleaner recipe instructions with source placeholders normalised for the selected portions",
-    "Improved phone landscape layout, cupboard alignment and guided cooking visibility",
-    "Built in verified Android updates plus installable iOS and web PWA parity",
-    "Google AI Mode for user requested ingredient alternatives"
-  ]
+    "versionName":  "0.35.1-qa.18",
+    "versionCode":  35018,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.18/My_Week_0.35.1_18_Fresh.apk",
+    "sha256":  "ac2d0625488734ed3258b709c9900f14a7418a94e16ec1fce972a6bfd4b063db",
+    "releaseNotes":  [
+                         "Clearer Android update status with installed and available versions shown separately",
+                         "Safer device transfer validation, rollback protection and overwrite warnings",
+                         "Reset My Week now uses a clear in-app warning before local data is erased",
+                         "Hardened Android update verification and a proper non-debuggable release build",
+                         "Cleaner production runtime with canonical pricing, planner and styling owners",
+                         "Complete current catalogue pricing identity coverage, including Guinness and Tabasco recipe ingredients"
+                     ]
 }
