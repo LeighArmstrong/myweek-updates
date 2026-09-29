@@ -1,10 +1,9 @@
 {
-  "versionName": "0.35.1-qa.22",
-  "versionCode": 35022,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.22/My_Week_0.35.1_22_Fresh.apk",
-  "sha256": "7238f0f84b17f9c75fddc4efabfa5f19c36f46b13ba5dd111016089e4bfec84e",
+  "versionName": "0.35.1-qa.23",
+  "versionCode": 35023,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.23/My_Week_0.35.1_23_Fresh.apk",
+  "sha256": "2aaf89f5f2831f10a03826c3038fb5351a575a128c4213f1babeea3cb031c139",
   "releaseNotes": [
-    "The home update banner keeps its full-width message while downloading and retains the result message afterward.",
-    "All numbered choice circles use the same size on phones and tablets."
+    "Version-only update to test the in-app updater. No app features or layouts changed."
   ]
 }
