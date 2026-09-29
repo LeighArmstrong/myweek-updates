@@ -1,13 +1,10 @@
 {
-  "versionName": "0.35.1-qa.20",
-  "versionCode": 35020,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.20/My_Week_0.35.1_20_Fresh.apk",
-  "sha256": "0d2fb9382f10ec148ffc2ebd71b26edac878d3240f52f420eac4329473dfb8a6",
+  "versionName": "0.35.1-qa.21",
+  "versionCode": 35021,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.21/My_Week_0.35.1_21_Fresh.apk",
+  "sha256": "daec7ab806f77dcc27e7fd938f23aa22b396c05ead745cf17a2283111dd536e4",
   "releaseNotes": [
-    "Clearer guided cooking steps with ingredients and practical quantities matched to each method.",
-    "More reliable budget planning and shopping quantities.",
-    "Android transfer files open the native share sheet, and imported weeks stay in place without a replan prompt.",
-    "Verified Android updates resume after install permission is granted.",
-    "Full-width landscape navigation and clearer scrolling in the cooking guide."
+    "Onboarding dinner choices now wrap cleanly on narrow phones while keeping comfortable touch targets.",
+    "Dinner and lunch day buttons have more room on phones and tablets."
   ]
 }
