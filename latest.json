@@ -1,9 +1,11 @@
 {
-  "versionName": "0.35.1-qa.23",
-  "versionCode": 35023,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.23/My_Week_0.35.1_23_Fresh.apk",
-  "sha256": "2aaf89f5f2831f10a03826c3038fb5351a575a128c4213f1babeea3cb031c139",
+  "versionName": "0.35.1-qa.24",
+  "versionCode": 35024,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.24/My_Week_0.35.1_24_Fresh.apk",
+  "sha256": "df71d1e94f9d680246b6b11739f9be79293f799ab5759e3d85e9ba27bd0388f4",
   "releaseNotes": [
-    "Version-only update to test the in-app updater. No app features or layouts changed."
+    "The update progress icon now spins inside its badge without spinning the whole update banner.",
+    "App resume clears interrupted page transitions and recreates the Android web view if its renderer is lost.",
+    "The matching web and iOS PWA is updated to QA24."
   ]
 }
