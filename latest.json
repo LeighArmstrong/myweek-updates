@@ -1,11 +1,14 @@
 {
-  "versionName": "0.35.1-qa.24",
-  "versionCode": 35024,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.24/My_Week_0.35.1_24_Fresh.apk",
-  "sha256": "df71d1e94f9d680246b6b11739f9be79293f799ab5759e3d85e9ba27bd0388f4",
+  "versionName": "0.35.1-qa.25",
+  "versionCode": 35025,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.25/My_Week_0.35.1_25_Fresh.apk",
+  "sha256": "537d3dc632b63f4e1b60bf2aff2f73900d193d2daf24b7725951cef33b8dc62d",
   "releaseNotes": [
-    "The update progress icon now spins inside its badge without spinning the whole update banner.",
-    "App resume clears interrupted page transitions and recreates the Android web view if its renderer is lost.",
-    "The matching web and iOS PWA is updated to QA24."
+    "1,000 additional plant-based dinners: 300 vegan and 700 vegetarian, taking the dinner catalogue to 3,000.",
+    "Gather ingredients using a shared checklist before cooking and in the guided preparation step; ticks persist when you pause and clear when you finish or cancel.",
+    "Short, relevant cooking stage headings and a consistent keep-awake switch at the top of preparation and cooking guides.",
+    "Tidier ingredient rows and expandable cupboard meal usage, with less unnecessary cooking and preparation text.",
+    "Improved food filters, provider allergen coverage, pack pricing and ingredient matching, with verified source photos.",
+    "The matching installable web app for iPhone and iPad includes the same QA25 changes."
   ]
 }
