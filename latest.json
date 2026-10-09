@@ -1,14 +1,14 @@
 {
-  "versionName": "0.35.1-qa.26",
-  "versionCode": 35026,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.26/My_Week_0.35.1_26_Fresh.apk",
-  "sha256": "255733c6b536ee81edb03fdd211cbd73fd60653ce9f2a72182dc735a588b59a7",
+  "versionName": "0.35.1-qa.27",
+  "versionCode": 35027,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.27/My_Week_0.35.1_27_Fresh.apk",
+  "sha256": "24d735b18df3ac01b1b349632f2e7f8b2357c60453383bb6c58b85584fe23349",
   "releaseNotes": [
-    "Private accounts with sign-in and creation during onboarding, password reset and account controls in Settings.",
-    "Automatic syncing of your week, cupboard, shopping progress and My Recipes across your devices, with clear choices for conflicting edits.",
-    "My Recipes: paste a recipe link, review and save it, search your collection, edit, delete or add recipes manually.",
-    "More accurate ingredients for each cooking step, including fresh tomatoes versus tomato paste.",
-    "Plain supermarket ingredient names replace unnecessary meal-kit branding.",
-    "Consistent cooking checklists and Keep awake controls, clearer small-phone shopping layout, and phone, tablet, iOS web and offline checks."
+    "Account shortcut beside Settings for sign-in and device sync.",
+    "Warmer welcome screen with a clear Sign in option.",
+    "Automatic recipe sync resumes with the app, with sync status in My Recipes.",
+    "Short allergy reminders can be dismissed; recipe filtering stays active.",
+    "Long cooking instructions scroll inside the card with clear spacing.",
+    "Cleaner lower-cost planning controls and concise cooking headings."
   ]
 }
