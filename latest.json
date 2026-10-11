@@ -1,14 +1,16 @@
 {
-  "versionName": "0.35.1-qa.27",
-  "versionCode": 35027,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.27/My_Week_0.35.1_27_Fresh.apk",
-  "sha256": "24d735b18df3ac01b1b349632f2e7f8b2357c60453383bb6c58b85584fe23349",
+  "versionName": "0.35.1-qa.28",
+  "versionCode": 35028,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.28/My_Week_0.35.1_28_Fresh.apk",
+  "sha256": "da559720a791721d0ece1630f7bd2c78a1def49b0b93196a0316702e1ebf15eb",
   "releaseNotes": [
-    "Account shortcut beside Settings for sign-in and device sync.",
-    "Warmer welcome screen with a clear Sign in option.",
-    "Automatic recipe sync resumes with the app, with sync status in My Recipes.",
-    "Short allergy reminders can be dismissed; recipe filtering stays active.",
-    "Long cooking instructions scroll inside the card with clear spacing.",
-    "Cleaner lower-cost planning controls and concise cooking headings."
+    "Tap a meal card or photo to open its recipe. Meals now has a searchable dinner and lunch library.",
+    "Previous weeks are available beside the date and in Meals, including personal recipes saved with those plans.",
+    "Settings save automatically and preserve your current week and shopping basket.",
+    "Completing your shopping order returns to the meal plan with its delivery reminder.",
+    "My Recipes remain viewable and cookable with allergy and equipment reminders. Long methods scroll smoothly.",
+    "Shorter onboarding pages have live visual previews and visible controls on small screens.",
+    "The first guided step has Back; ingredient gathering stays ticked when you return.",
+    "Cleaner shared code and styling, documented module ownership and updated dependencies with a clean security audit."
   ]
 }
