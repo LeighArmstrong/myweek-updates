@@ -1,13 +1,13 @@
 {
-    "versionName":  "0.35.1-qa.30",
-    "versionCode":  35030,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.30/My_Week_0.35.1_30_Fresh.apk",
-    "sha256":  "41b84509a3540ee0175c5067e7593d21c492bd7cf578eb85c1411a08fcff0aa4",
+    "versionName":  "0.35.1-qa.31",
+    "versionCode":  35031,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.31/My_Week_0.35.1_31_Fresh.apk",
+    "sha256":  "9048701343a2e560949a8ed36d3879c8f497e7273451bec40ca563e316e35b11",
+    "apkBytes":  214596307,
     "releaseNotes":  [
-                         "Previous weeks now has a clearly labelled, styled selector that matches MyWeek\u0027s existing controls.",
-                         "My Recipes remains in its usual place, now inside a larger rounded button.",
-                         "Switching tabs no longer briefly overlaps the previous page\u0027s headings.",
-                         "Removed the unnecessary Planning preferences banner without changing saved settings.",
-                         "Visible recipe photographs are prioritised, and cooking instructions switch immediately while upcoming step images load ahead."
+                         "Android updates are significantly smaller while keeping the full recipe photo library available offline.",
+                         "Download progress now shows megabytes transferred, a progress bar, and clearer queued, paused and verification stages.",
+                         "Improved image caching retains your previously viewed recipes when the web app updates.",
+                         "Completed an app-wide visual, code-quality, cooking, account, shopping and offline review, preserving your existing plans and preferences."
                      ]
 }
