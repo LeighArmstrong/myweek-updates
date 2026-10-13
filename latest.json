@@ -1,16 +1,15 @@
 {
-  "versionName": "0.35.1-qa.28",
-  "versionCode": 35028,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.28/My_Week_0.35.1_28_Fresh.apk",
-  "sha256": "da559720a791721d0ece1630f7bd2c78a1def49b0b93196a0316702e1ebf15eb",
-  "releaseNotes": [
-    "Tap a meal card or photo to open its recipe. Meals now has a searchable dinner and lunch library.",
-    "Previous weeks are available beside the date and in Meals, including personal recipes saved with those plans.",
-    "Settings save automatically and preserve your current week and shopping basket.",
-    "Completing your shopping order returns to the meal plan with its delivery reminder.",
-    "My Recipes remain viewable and cookable with allergy and equipment reminders. Long methods scroll smoothly.",
-    "Shorter onboarding pages have live visual previews and visible controls on small screens.",
-    "The first guided step has Back; ingredient gathering stays ticked when you return.",
-    "Cleaner shared code and styling, documented module ownership and updated dependencies with a clean security audit."
-  ]
+    "versionName":  "0.35.1-qa.29",
+    "versionCode":  35029,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.29/My_Week_0.35.1_29_Fresh.apk",
+    "sha256":  "687bd5c15bcc2defd602a7497feb9f6709710b226bbecd5b2dc2ddfbe22ccd3d",
+    "releaseNotes":  [
+                         "Android update downloads keep their progress when MyWeek is minimised or reopened.",
+                         "Dismissed installation prompts can be reopened without downloading the update again.",
+                         "Recipe cards open anywhere you tap and longer recipes scroll more reliably.",
+                         "View last week\u0027s meals without changing your current plan.",
+                         "Ingredient gathering checklists remain available throughout guided cooking.",
+                         "Settings are clearer and unnecessary recipe preparation text has been reduced.",
+                         "Improved compact screens, onboarding controls and recipe filter interactions."
+                     ]
 }
