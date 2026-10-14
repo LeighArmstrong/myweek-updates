@@ -1,15 +1,13 @@
 {
-    "versionName":  "0.35.1-qa.32",
-    "versionCode":  35032,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.32/My_Week_0.35.1_32_Fresh.apk",
-    "sha256":  "ca090e296b74a60ebbaaf1e860c3cf218d06802fe64aff3591ce21c27892f1a1",
-    "apkBytes":  214596924,
+    "versionName":  "0.35.1-qa.33",
+    "versionCode":  35033,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.33/My_Week_0.35.1_33_Fresh.apk",
+    "sha256":  "ce2666e3e8edf067d3a3acde98df639a5c7c33121ac0439b581b2bd2de6ed56d",
+    "apkBytes":  214596980,
     "releaseNotes":  [
-                         "Made the welcome and onboarding screens more inviting with a larger food photograph, clearer typography and purposeful stage icons across mobile, tablet and web.",
-                         "Redesigned the weekly meal preview as a readable seven-day calendar, with larger evenly spaced meal selection buttons and clearly marked dinner and lunch days.",
-                         "Kept the Continue button accessible on small phones while allowing longer onboarding pages to scroll. Improved selection semantics without changing saved preferences or personal data.",
-                         "Centred the plus icon on My Recipes through the shared button layout, without one-off offsets or additional forced CSS priorities.",
-                         "Aligned page headings with adjacent controls throughout MyWeek and made Before you shop use the established shopping page heading.",
-                         "Removed obsolete layout rules and CSS exception records. Added regression checks for seven onboarding layouts, buttons, headings and offline features."
+                         "Improved spacing throughout onboarding, including a clear gap between Standard kitchen kit and Other appliances you have.",
+                         "Centred the Changes save automatically confirmation in Settings, including its tick icon.",
+                         "Kept the spinner and Creating your week message together on one line while the first plan is generated.",
+                         "Finishing a guided recipe now returns to Home after recording the cooked meal and updating your cupboard. Pausing or cancelling still returns to the recipe."
                      ]
 }
