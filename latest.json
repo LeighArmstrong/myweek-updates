@@ -1,12 +1,12 @@
 {
-    "versionName":  "0.35.1-qa.36",
-    "versionCode":  35036,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.36/My_Week_0.35.1_36_Fresh.apk",
-    "sha256":  "0f9148ac581b03c4334e436a2985ec3a59c4d8bb8b7c93308bc46643e4ba8201",
-    "apkBytes":  214601045,
+    "versionName":  "0.35.1-qa.37",
+    "versionCode":  35037,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.37/My_Week_0.35.1_37_Fresh.apk",
+    "sha256":  "d0f452da891e76002d29b5ab96117f497e7fc5c226afb8daaf995129e2fd6d9f",
+    "apkBytes":  214601405,
     "releaseNotes":  [
-                         "The dinner serving count now appears directly beneath Dinner days, alongside the matching Lunch days layout.",
-                         "Favourites, Account and Settings shortcuts now remain consistent across tabs and pages, including smaller phones.",
-                         "The Shopping page now uses a compact Shop heading with its working category filter below, and the My Recipes shortcut remains easy to find beneath the Meals header."
+                         "Restored the Meals page to its previous layout, with My Recipes in the top header and no extra Meals heading; the Favourites shortcut remains beside Account and Settings.",
+                         "Fixed update notifications so a previous installation\u0027s success message cannot hide a newer update available on Home or Settings.",
+                         "Distinguishes an unavailable update check from an up-to-date app, without changing existing saved meals or settings."
                      ]
 }
