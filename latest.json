@@ -1,12 +1,12 @@
 {
-    "versionName":  "0.35.1-qa.35",
-    "versionCode":  35035,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.35/My_Week_0.35.1_35_Fresh.apk",
-    "sha256":  "9962bd13f2d67e95b7ddea641953e227ca8eb7706e029302779d60384e3ca5cf",
-    "apkBytes":  214600940,
+    "versionName":  "0.35.1-qa.36",
+    "versionCode":  35036,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.36/My_Week_0.35.1_36_Fresh.apk",
+    "sha256":  "0f9148ac581b03c4334e436a2985ec3a59c4d8bb8b7c93308bc46643e4ba8201",
+    "apkBytes":  214601045,
     "releaseNotes":  [
-                         "Guided cooking actions now keep bracketed questions and their answers together instead of dividing them between numbered actions.",
-                         "The Home Favourites shortcut now matches Account and Settings, while only saved recipe hearts turn red.",
-                         "Smaller recipe hearts take up less space, especially on compact recipe photographs, without changing saved favourites."
+                         "The dinner serving count now appears directly beneath Dinner days, alongside the matching Lunch days layout.",
+                         "Favourites, Account and Settings shortcuts now remain consistent across tabs and pages, including smaller phones.",
+                         "The Shopping page now uses a compact Shop heading with its working category filter below, and the My Recipes shortcut remains easy to find beneath the Meals header."
                      ]
 }
