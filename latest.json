@@ -1,13 +1,12 @@
 {
-    "versionName":  "0.35.1-qa.34",
-    "versionCode":  35034,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.34/My_Week_0.35.1_34_Fresh.apk",
-    "sha256":  "14221a9f0c24caee80e7086565e8c6829a114c64e90cc57da22263b6880408f6",
-    "apkBytes":  214600442,
+    "versionName":  "0.35.1-qa.35",
+    "versionCode":  35035,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.35/My_Week_0.35.1_35_Fresh.apk",
+    "sha256":  "9962bd13f2d67e95b7ddea641953e227ca8eb7706e029302779d60384e3ca5cf",
+    "apkBytes":  214600940,
     "releaseNotes":  [
-                         "Save recipes with a pinkish-red heart. A quick bounce and soft ring make saving satisfying, with a static alternative when reduced motion is enabled.",
-                         "Open all saved recipes from the new heart shortcut beside Account and Settings on Home. Favourites remain saved when your weekly meals change, with support for account sync and device transfers.",
-                         "Choose how many people are eating dinner in Settings. This updates current-week cooking quantities and future plans without altering saved recipes or overwriting an existing shopping list.",
-                         "Automatic dinner plans now avoid extra-large Double Chicken recipes, which can specify four breasts for two people. The original recipes remain available to choose manually, with their quantities clearly explained."
+                         "Guided cooking actions now keep bracketed questions and their answers together instead of dividing them between numbered actions.",
+                         "The Home Favourites shortcut now matches Account and Settings, while only saved recipe hearts turn red.",
+                         "Smaller recipe hearts take up less space, especially on compact recipe photographs, without changing saved favourites."
                      ]
 }
