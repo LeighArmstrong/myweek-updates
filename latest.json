@@ -1,13 +1,13 @@
 {
-    "versionName":  "0.35.1-qa.33",
-    "versionCode":  35033,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.33/My_Week_0.35.1_33_Fresh.apk",
-    "sha256":  "ce2666e3e8edf067d3a3acde98df639a5c7c33121ac0439b581b2bd2de6ed56d",
-    "apkBytes":  214596980,
+    "versionName":  "0.35.1-qa.34",
+    "versionCode":  35034,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.34/My_Week_0.35.1_34_Fresh.apk",
+    "sha256":  "14221a9f0c24caee80e7086565e8c6829a114c64e90cc57da22263b6880408f6",
+    "apkBytes":  214600442,
     "releaseNotes":  [
-                         "Improved spacing throughout onboarding, including a clear gap between Standard kitchen kit and Other appliances you have.",
-                         "Centred the Changes save automatically confirmation in Settings, including its tick icon.",
-                         "Kept the spinner and Creating your week message together on one line while the first plan is generated.",
-                         "Finishing a guided recipe now returns to Home after recording the cooked meal and updating your cupboard. Pausing or cancelling still returns to the recipe."
+                         "Save recipes with a pinkish-red heart. A quick bounce and soft ring make saving satisfying, with a static alternative when reduced motion is enabled.",
+                         "Open all saved recipes from the new heart shortcut beside Account and Settings on Home. Favourites remain saved when your weekly meals change, with support for account sync and device transfers.",
+                         "Choose how many people are eating dinner in Settings. This updates current-week cooking quantities and future plans without altering saved recipes or overwriting an existing shopping list.",
+                         "Automatic dinner plans now avoid extra-large Double Chicken recipes, which can specify four breasts for two people. The original recipes remain available to choose manually, with their quantities clearly explained."
                      ]
 }
