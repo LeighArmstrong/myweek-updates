@@ -1,14 +1,14 @@
 {
-    "versionName":  "0.35.1-qa.39",
-    "versionCode":  35039,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.39/My_Week_0.35.1_39_Fresh.apk",
-    "sha256":  "46b0a55137fccc93b53ff4c9734f24302123460ab32f2d8aa6a8d9bb4df79e14",
-    "apkBytes":  214607488,
+    "versionName":  "0.35.1-qa.40",
+    "versionCode":  35040,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.40/My_Week_0.35.1_40_Fresh.apk",
+    "sha256":  "94942307dc9a82b67f6e7ecfdc6df141ce5f73fe3abc63c9671e9935d521ecb3",
+    "apkBytes":  214608141,
     "releaseNotes":  [
-                         "Shopping is tidier and easier to scan, with a compact overview, consistent ingredient rows and clearer quantities and prices.",
-                         "The shopping list is better proportioned on wide tablets, without oversized cards and controls.",
-                         "The Home update message now simply says Update available, with technical version details kept out of the notification.",
-                         "Selected Favourites, Account and Settings buttons use colour only, without an underline.",
-                         "Android downloads show clearer starting and automatic retry messages, including when the connection briefly pauses."
+                         "Bottom tabs now slide between pages in the direction of navigation while the header and tab bar remain stationary.",
+                         "Rapid taps no longer produce browser transition errors. Older WebViews and reduced-motion preferences are supported.",
+                         "Shopping no longer repeats the Find cheaper meals or Lower-cost meals control. Lower-cost planning remains in Shop Prep and Settings.",
+                         "Removed obsolete Shopping styles and added persistent regression checks to guard the navigation design.",
+                         "Completed extensive phone, iPhone and tablet page, control and shopping regression testing without changing existing meals or data."
                      ]
 }
