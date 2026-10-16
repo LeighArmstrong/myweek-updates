@@ -1,13 +1,12 @@
 {
-    "versionName":  "0.35.1-qa.41",
-    "versionCode":  35041,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.41/My_Week_0.35.1_41_Fresh.apk",
-    "sha256":  "f1d96a153e29a583df2bc93a64818640b51ebd2c85683ad41793453dc663d3f7",
-    "apkBytes":  214608698,
+    "versionName":  "0.35.1-qa.42",
+    "versionCode":  35042,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.42/My_Week_0.35.1_42_Fresh.apk",
+    "sha256":  "a35fe7dd8b35b6c38408ddb46e21cfd6f74ce63bf119533be8c74042cb4340a2",
+    "apkBytes":  214608877,
     "releaseNotes":  [
-                         "Cook step by step now opens the first real method instruction without repeating the ingredients and equipment checklist.",
-                         "The existing recipe checklist, preparation guidance and session progress are preserved, and Back from Step 1 returns to the recipe.",
-                         "The Shopping estimate and checklist progress are vertically centred in wide and landscape layouts while portrait spacing stays unchanged.",
-                         "Recipe filter controls now stay above favourites buttons beneath the filter panel."
+                         "Fixed the Shopping overview in landscape so the price and the progress bar are actually level, with Estimate aligned alongside the checked count.",
+                         "Fixed compact favourite hearts so the full, comfortable touch area responds without making the visible heart larger.",
+                         "Added responsive Android phone, iPhone and tablet interaction and alignment checks."
                      ]
 }
