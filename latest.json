@@ -1,14 +1,13 @@
 {
-    "versionName":  "0.35.1-qa.40",
-    "versionCode":  35040,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.40/My_Week_0.35.1_40_Fresh.apk",
-    "sha256":  "94942307dc9a82b67f6e7ecfdc6df141ce5f73fe3abc63c9671e9935d521ecb3",
-    "apkBytes":  214608141,
+    "versionName":  "0.35.1-qa.41",
+    "versionCode":  35041,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.41/My_Week_0.35.1_41_Fresh.apk",
+    "sha256":  "f1d96a153e29a583df2bc93a64818640b51ebd2c85683ad41793453dc663d3f7",
+    "apkBytes":  214608698,
     "releaseNotes":  [
-                         "Bottom tabs now slide between pages in the direction of navigation while the header and tab bar remain stationary.",
-                         "Rapid taps no longer produce browser transition errors. Older WebViews and reduced-motion preferences are supported.",
-                         "Shopping no longer repeats the Find cheaper meals or Lower-cost meals control. Lower-cost planning remains in Shop Prep and Settings.",
-                         "Removed obsolete Shopping styles and added persistent regression checks to guard the navigation design.",
-                         "Completed extensive phone, iPhone and tablet page, control and shopping regression testing without changing existing meals or data."
+                         "Cook step by step now opens the first real method instruction without repeating the ingredients and equipment checklist.",
+                         "The existing recipe checklist, preparation guidance and session progress are preserved, and Back from Step 1 returns to the recipe.",
+                         "The Shopping estimate and checklist progress are vertically centred in wide and landscape layouts while portrait spacing stays unchanged.",
+                         "Recipe filter controls now stay above favourites buttons beneath the filter panel."
                      ]
 }
