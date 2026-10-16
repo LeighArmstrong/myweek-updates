@@ -1,12 +1,16 @@
 {
-    "versionName":  "0.35.1-qa.37",
-    "versionCode":  35037,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.37/My_Week_0.35.1_37_Fresh.apk",
-    "sha256":  "d0f452da891e76002d29b5ab96117f497e7fc5c226afb8daaf995129e2fd6d9f",
-    "apkBytes":  214601405,
+    "versionName":  "0.35.1-qa.38",
+    "versionCode":  35038,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.38/My_Week_0.35.1_38_Fresh.apk",
+    "sha256":  "5360227c1cc72e8a79df5b31037b611253edf197577c7b610d8af4dba786d79b",
+    "apkBytes":  214606446,
     "releaseNotes":  [
-                         "Restored the Meals page to its previous layout, with My Recipes in the top header and no extra Meals heading; the Favourites shortcut remains beside Account and Settings.",
-                         "Fixed update notifications so a previous installation\u0027s success message cannot hide a newer update available on Home or Settings.",
-                         "Distinguishes an unavailable update check from an up-to-date app, without changing existing saved meals or settings."
+                         "Regenerating this week now picks different suitable meals and respects the household budget.",
+                         "Shopping is split into cupboard checking and online basket checking, with one clear list and category filters.",
+                         "Checked quantities are retained when recipes change, including partial quantities still needed.",
+                         "The checklist stays editable after Order placed; only items actually added to the basket are recorded as purchases.",
+                         "New cupboards start empty. Historical suggested stock stays protected until its quantities are confirmed.",
+                         "Stock is only added after a confirmed delivery, and incompatible quantities cannot overwrite existing inventory.",
+                         "Landscape tablet quantity controls and navigation feedback are improved."
                      ]
 }
