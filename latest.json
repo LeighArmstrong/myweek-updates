@@ -1,16 +1,14 @@
 {
-    "versionName":  "0.35.1-qa.38",
-    "versionCode":  35038,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.38/My_Week_0.35.1_38_Fresh.apk",
-    "sha256":  "5360227c1cc72e8a79df5b31037b611253edf197577c7b610d8af4dba786d79b",
-    "apkBytes":  214606446,
+    "versionName":  "0.35.1-qa.39",
+    "versionCode":  35039,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.39/My_Week_0.35.1_39_Fresh.apk",
+    "sha256":  "46b0a55137fccc93b53ff4c9734f24302123460ab32f2d8aa6a8d9bb4df79e14",
+    "apkBytes":  214607488,
     "releaseNotes":  [
-                         "Regenerating this week now picks different suitable meals and respects the household budget.",
-                         "Shopping is split into cupboard checking and online basket checking, with one clear list and category filters.",
-                         "Checked quantities are retained when recipes change, including partial quantities still needed.",
-                         "The checklist stays editable after Order placed; only items actually added to the basket are recorded as purchases.",
-                         "New cupboards start empty. Historical suggested stock stays protected until its quantities are confirmed.",
-                         "Stock is only added after a confirmed delivery, and incompatible quantities cannot overwrite existing inventory.",
-                         "Landscape tablet quantity controls and navigation feedback are improved."
+                         "Shopping is tidier and easier to scan, with a compact overview, consistent ingredient rows and clearer quantities and prices.",
+                         "The shopping list is better proportioned on wide tablets, without oversized cards and controls.",
+                         "The Home update message now simply says Update available, with technical version details kept out of the notification.",
+                         "Selected Favourites, Account and Settings buttons use colour only, without an underline.",
+                         "Android downloads show clearer starting and automatic retry messages, including when the connection briefly pauses."
                      ]
 }
