@@ -1,12 +1,13 @@
 {
-    "versionName":  "0.35.1-qa.42",
-    "versionCode":  35042,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.42/My_Week_0.35.1_42_Fresh.apk",
-    "sha256":  "a35fe7dd8b35b6c38408ddb46e21cfd6f74ce63bf119533be8c74042cb4340a2",
-    "apkBytes":  214608877,
+    "versionName":  "0.35.1-qa.43",
+    "versionCode":  35043,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.43/My_Week_0.35.1_43_Fresh.apk",
+    "sha256":  "a7fd60955b285b4e34db9714b1f08dc41b1189f9a0e422326b5d0a5fccf51ed0",
     "releaseNotes":  [
-                         "Fixed the Shopping overview in landscape so the price and the progress bar are actually level, with Estimate aligned alongside the checked count.",
-                         "Fixed compact favourite hearts so the full, comfortable touch area responds without making the visible heart larger.",
-                         "Added responsive Android phone, iPhone and tablet interaction and alignment checks."
+                         "Simpler Shopping List: total, quick item addition and checklist first, with no unnecessary menus, weekly essentials dropdown or progress bars. Added items appear in an Additions group at the top, with a simple unboxed X to remove them.",
+                         "Refined shopping total typography and spacing across devices. Known ingredient prices remain visible when a manually added item has no local price, with the subtotal clearly labelled.",
+                         "Australia now has national grocery price estimates and shopping calculations alongside the existing United Kingdom experience, using one shared catalogue design.",
+                         "Expanded comparative ingredient pricing across all 3,252 recipes, with eight UK and four Australian supermarket choices. Prices are estimates, not live local shelf prices.",
+                         "Improved cross-country quantity conversion and budget safeguards while retaining existing meals, favourites, cupboards and shopping check-offs."
                      ]
 }
