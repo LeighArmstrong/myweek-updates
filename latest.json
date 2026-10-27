@@ -1,14 +1,14 @@
 {
-    "versionName":  "0.35.1-qa.45",
-    "versionCode":  35045,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.45/My_Week_0.35.1_45_Fresh.apk",
-    "sha256":  "e172065c2e7f0332b45a94dd4067b4e737899bf51a98cb6a8fd774ab2dfd3661",
-    "apkBytes":  214715244,
+    "versionName":  "0.35.1-qa.46",
+    "versionCode":  35046,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.46/My_Week_0.35.1_46_Fresh.apk",
+    "sha256":  "f7a59e64a9d6da2e33799e7d5d941c0e294b639d5591f890e813e85d95eff43e",
+    "apkBytes":  214716058,
     "releaseNotes":  [
-                         "Redesigned guided tutorial now opens My Week, All Recipes, My Recipes, Shopping List and Settings in turn.",
-                         "Explains seven useful features without overwhelming new users.",
-                         "Bottom navigation keeps its usual white background and highlights the active tab.",
-                         "Tap outside an explanation to move to the next step, without activating underlying controls.",
-                         "Includes Skip, Finish and replay from Settings; existing saved meals, favourites, inventory and shopping checkmarks stay intact."
+                         "The tutorial now lets you tap the highlighted tab to open each page yourself, instead of switching screens without warning.",
+                         "The app slides to the next page and scrolls smoothly to the feature before highlighting it.",
+                         "Instructions use shorter, clearer wording about the buttons and what they do, including turning dinner and lunch days on or off.",
+                         "The white bottom navigation, active-tab indication, tap-outside-to-advance, Skip and replay from Settings are retained.",
+                         "Existing meals, preferences, favourites, cupboard items and shopping checks are preserved."
                      ]
 }
