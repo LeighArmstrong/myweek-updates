@@ -1,14 +1,14 @@
 {
-    "versionName":  "0.35.1-qa.47",
-    "versionCode":  35047,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.47/My_Week_0.35.1_47_Fresh.apk",
-    "sha256":  "204f5e94b52e738be8d39b81c1ec9cf07c34b64f28fa4b7e784cac9cf2558d88",
-    "apkBytes":  214716573,
+    "versionName":  "0.35.1-qa.48",
+    "versionCode":  35048,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.48/My_Week_0.35.1_48_Fresh.apk",
+    "sha256":  "bfece4d9b8462944b06f57db2421e18ac800adfe515f2ab661cbb08540d656de",
+    "apkBytes":  214717715,
     "releaseNotes":  [
-                         "The tutorial now places each explanation in its own space in the page, so no other buttons are covered on phone, tablet or landscape screens.",
-                         "Removed the glowing green pulse and extra white borders around highlighted controls; the app keeps its normal visual style.",
-                         "The Shopping List tour explains that ingredients from the meals in My Week are added automatically and grouped ready to buy.",
-                         "Removed repeated dinner/lunch day Settings steps; Settings now explains the supermarket, with budget and food preferences nearby.",
-                         "Users still open tabs themselves, see smooth scrolling, can tap outside to continue, and can skip or replay the tour. Saved meals and shopping data remain untouched."
+                         "New precisely aligned tutorial spotlights highlight only the control to tap without introducing extra gaps or glowing borders.",
+                         "Tab explanations now sit directly above All Recipes, My Recipes or Shopping List with a small pointer to the exact tab.",
+                         "Shopping guidance highlights the entire tickable item row and explains how meals in My Week feed the Shopping List.",
+                         "The tutorial still supports tapping the real tabs, smooth scrolling, Next, Skip and replay from Settings.",
+                         "Existing meals, preferences, favourites, inventory and shopping progress are preserved."
                      ]
 }
