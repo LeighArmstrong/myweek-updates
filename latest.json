@@ -1,14 +1,14 @@
 {
-    "versionName":  "0.35.1-qa.46",
-    "versionCode":  35046,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.46/My_Week_0.35.1_46_Fresh.apk",
-    "sha256":  "f7a59e64a9d6da2e33799e7d5d941c0e294b639d5591f890e813e85d95eff43e",
-    "apkBytes":  214716058,
+    "versionName":  "0.35.1-qa.47",
+    "versionCode":  35047,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.47/My_Week_0.35.1_47_Fresh.apk",
+    "sha256":  "204f5e94b52e738be8d39b81c1ec9cf07c34b64f28fa4b7e784cac9cf2558d88",
+    "apkBytes":  214716573,
     "releaseNotes":  [
-                         "The tutorial now lets you tap the highlighted tab to open each page yourself, instead of switching screens without warning.",
-                         "The app slides to the next page and scrolls smoothly to the feature before highlighting it.",
-                         "Instructions use shorter, clearer wording about the buttons and what they do, including turning dinner and lunch days on or off.",
-                         "The white bottom navigation, active-tab indication, tap-outside-to-advance, Skip and replay from Settings are retained.",
-                         "Existing meals, preferences, favourites, cupboard items and shopping checks are preserved."
+                         "The tutorial now places each explanation in its own space in the page, so no other buttons are covered on phone, tablet or landscape screens.",
+                         "Removed the glowing green pulse and extra white borders around highlighted controls; the app keeps its normal visual style.",
+                         "The Shopping List tour explains that ingredients from the meals in My Week are added automatically and grouped ready to buy.",
+                         "Removed repeated dinner/lunch day Settings steps; Settings now explains the supermarket, with budget and food preferences nearby.",
+                         "Users still open tabs themselves, see smooth scrolling, can tap outside to continue, and can skip or replay the tour. Saved meals and shopping data remain untouched."
                      ]
 }
