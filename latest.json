@@ -1,13 +1,14 @@
 {
-    "versionName":  "0.35.1-qa.44",
-    "versionCode":  35044,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.44/My_Week_0.35.1_44_Fresh.apk",
-    "sha256":  "484660b56079ed12ebf40d834c2f697687df8ed6bd42d43a4271dd35240038de",
+    "versionName":  "0.35.1-qa.45",
+    "versionCode":  35045,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.45/My_Week_0.35.1_45_Fresh.apk",
+    "sha256":  "e172065c2e7f0332b45a94dd4067b4e737899bf51a98cb6a8fd774ab2dfd3661",
+    "apkBytes":  214715244,
     "releaseNotes":  [
-                         "New first-use guided tutorial after onboarding: My Week, All Recipes, My Recipes, Shopping List and Settings.",
-                         "Dimmed overlays keep the relevant controls highlighted, with clear Next, Skip and Finish actions.",
-                         "Existing households are not interrupted; the tutorial can be replayed from Settings at any time.",
-                         "Responsive walkthrough layout for compact phones, tablets and landscape, with keyboard support and Android Back dismissal.",
-                         "Your meals, favourites, cupboard inventory and shopping checks remain unchanged during this update."
+                         "Redesigned guided tutorial now opens My Week, All Recipes, My Recipes, Shopping List and Settings in turn.",
+                         "Explains seven useful features without overwhelming new users.",
+                         "Bottom navigation keeps its usual white background and highlights the active tab.",
+                         "Tap outside an explanation to move to the next step, without activating underlying controls.",
+                         "Includes Skip, Finish and replay from Settings; existing saved meals, favourites, inventory and shopping checkmarks stay intact."
                      ]
 }
