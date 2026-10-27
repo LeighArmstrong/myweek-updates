@@ -1,14 +1,14 @@
 {
-    "versionName":  "0.35.1-qa.48",
-    "versionCode":  35048,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.48/My_Week_0.35.1_48_Fresh.apk",
-    "sha256":  "bfece4d9b8462944b06f57db2421e18ac800adfe515f2ab661cbb08540d656de",
-    "apkBytes":  214717715,
+    "versionName":  "0.35.1-qa.49",
+    "versionCode":  35049,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.49/My_Week_0.35.1_49_Fresh.apk",
+    "sha256":  "40df83f86ef0d9cd29649b8ddd45a25c6378ee9b32914e4759e7735f16050558",
+    "apkBytes":  214718769,
     "releaseNotes":  [
-                         "New precisely aligned tutorial spotlights highlight only the control to tap without introducing extra gaps or glowing borders.",
-                         "Tab explanations now sit directly above All Recipes, My Recipes or Shopping List with a small pointer to the exact tab.",
-                         "Shopping guidance highlights the entire tickable item row and explains how meals in My Week feed the Shopping List.",
-                         "The tutorial still supports tapping the real tabs, smooth scrolling, Next, Skip and replay from Settings.",
-                         "Existing meals, preferences, favourites, inventory and shopping progress are preserved."
+                         "All twelve tutorial explanations now sit a consistent 14 px from their highlighted cut-out.",
+                         "Cut-out corners follow the actual UI component shape instead of using one radius for every element.",
+                         "My Week tutorial step one now explains tapping days to manage lunch or dinner and choose a meal.",
+                         "The guided tour does not insert a toothpaste example into shopping data and preserves genuine user-added items.",
+                         "Navigation tabs, shopping guidance, Skip, replay and saved meal plans continue working as before."
                      ]
 }
