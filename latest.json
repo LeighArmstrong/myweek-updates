@@ -1,14 +1,14 @@
 {
-    "versionName":  "0.35.1-qa.49",
-    "versionCode":  35049,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.49/My_Week_0.35.1_49_Fresh.apk",
-    "sha256":  "40df83f86ef0d9cd29649b8ddd45a25c6378ee9b32914e4759e7735f16050558",
-    "apkBytes":  214718769,
-    "releaseNotes":  [
-                         "All twelve tutorial explanations now sit a consistent 14 px from their highlighted cut-out.",
-                         "Cut-out corners follow the actual UI component shape instead of using one radius for every element.",
-                         "My Week tutorial step one now explains tapping days to manage lunch or dinner and choose a meal.",
-                         "The guided tour does not insert a toothpaste example into shopping data and preserves genuine user-added items.",
-                         "Navigation tabs, shopping guidance, Skip, replay and saved meal plans continue working as before."
-                     ]
+  "versionName": "0.35.1-qa.50",
+  "versionCode": 35050,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.50/My_Week_0.35.1_50_Fresh.apk",
+  "sha256": "93a798e2d0536e31d4b8bf8c08d1aab42572d4ba6a88fb1ac40570ca1b592323",
+  "apkBytes": 214721291,
+  "releaseNotes": [
+    "Try My Week without signing in using the new local-only guest option.",
+    "A simpler Shopping List for adding, checking and managing groceries.",
+    "UK and Australian supermarket estimates in the appropriate currency.",
+    "Cleaner Settings with expandable food preferences and kitchen equipment.",
+    "Refined onboarding tutorial, recipe browsing and guided cooking."
+  ]
 }
