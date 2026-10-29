@@ -1,14 +1,14 @@
 {
-  "versionName": "0.35.1-qa.50",
-  "versionCode": 35050,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.50/My_Week_0.35.1_50_Fresh.apk",
-  "sha256": "93a798e2d0536e31d4b8bf8c08d1aab42572d4ba6a88fb1ac40570ca1b592323",
-  "apkBytes": 214721291,
+  "versionName": "0.35.1-qa.52",
+  "versionCode": 35052,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.52/My_Week_0.35.1_52_Fresh.apk",
+  "sha256": "348cc9e692bd66ef0e77e0b40404698e254f8b044ec03d7a6366a95da6ef421b",
+  "apkBytes": 214722601,
   "releaseNotes": [
-    "Try My Week without signing in using the new local-only guest option.",
-    "A simpler Shopping List for adding, checking and managing groceries.",
-    "UK and Australian supermarket estimates in the appropriate currency.",
-    "Cleaner Settings with expandable food preferences and kitchen equipment.",
-    "Refined onboarding tutorial, recipe browsing and guided cooking."
+    "An expanded, clearer 18-step tutorial with useful highlights on every page.",
+    "Consistent MyWeek control and card corners throughout guided onboarding.",
+    "Correct Shopping extra-item guidance and supermarket, budget and kitchen Settings highlights.",
+    "Safer rapid tab switching while preserving normal directional animations.",
+    "Existing UK and Australian shopping, pricing, recipes and saved plans preserved."
   ]
 }
