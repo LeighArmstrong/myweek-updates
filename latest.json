@@ -1,14 +1,12 @@
 {
-  "versionName": "0.35.1-qa.54",
-  "versionCode": 35054,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.54/My_Week_0.35.1_54_Fresh.apk",
-  "sha256": "02577ae04eb3b20be6c2363714d6186cd279fb282984c02ee88b7b02a8cd21be",
-  "apkBytes": 214723758,
+  "versionName": "0.35.1-qa.55",
+  "versionCode": 35055,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.55/My_Week_0.35.1_55_Fresh.apk",
+  "sha256": "f5a4643fca14b78d1b1c44f4284a746999a12711b104ae625ad5d0099765fe4d",
   "releaseNotes": [
-    "2,600 ready-to-use supplier dinners; 400 held supplier records remain saved but unavailable for cooking or shopping until repaired.",
-    "The home page no longer shows an intrusive warning about held recipes; historical planned dinners remain safe and replaceable in the day editor.",
-    "The shopping list estimate now has equal spacing above and below the price on phones, tablets and the web.",
-    "Imported linked recipes can use an alternate genuine image declared by the same recipe page if the first image fails.",
-    "Existing plans, favourites, account and guest data, UK and Australian supermarket pricing, and manual week generation remain protected."
+    "3,000 ready-to-cook dinners, including 38 original MyWeek recipes.",
+    "Reviewed and corrected guided cooking instructions for clearer preparation and safer sequences.",
+    "Removed 38 retired supplier recipes and their unused photographs while retaining historical saved references.",
+    "Kept the familiar MyWeek design, meal planning, shopping and UK and Australian supermarket support."
   ]
 }
