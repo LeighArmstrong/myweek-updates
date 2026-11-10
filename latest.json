@@ -1,12 +1,12 @@
 {
-  "versionName": "0.35.1-qa.57",
-  "versionCode": 35057,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.57/My_Week_0.35.1_57_Fresh.apk",
-  "sha256": "ff07b84fdbe96a3cae1f37fd3bc72661a22d80a1691672b5ba5393d5366708dc",
+  "versionName": "0.35.1-qa.58",
+  "versionCode": 35058,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.58/My_Week_0.35.1_58_Fresh.apk",
+  "sha256": "80866c1e972fe4c6a6c8cf971e966091e130a8d90694edaf906f790f53b9fcc4",
   "releaseNotes": [
-    "38 complete photographed dinners replace the illustrated recipes, with images matched to the finished food.",
-    "Cooking guides show accurate ingredients and instructions without unrelated photographs where source step images are unavailable.",
-    "All 3,000 dinners and 252 lunches remain available with budget, dietary, kitchen equipment and supermarket safeguards.",
-    "Preserves existing plans, saved recipes, shopping check-offs and account data during the in-place update."
+    "All 38 photographed replacement recipes now have individual, food-specific subtitles.",
+    "Recipe details now use a concise source link; photographer and licence credits are available in Settings.",
+    "All 3,000 dinners, 252 lunches, ingredients, cooking steps and photographs remain unchanged.",
+    "Existing meal plans, favourites, shopping lists and personal settings are retained."
   ]
 }
