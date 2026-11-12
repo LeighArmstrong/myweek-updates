@@ -1,11 +1,12 @@
 {
-  "versionName": "0.35.1-qa.60",
-  "versionCode": 35060,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.60/My_Week_0.35.1_60_Fresh.apk",
-  "sha256": "fda0e7272ff711cce6de1fe646fc041f05c833b9570231b33b540983934361ae",
+  "versionName": "0.35.1-qa.61",
+  "versionCode": 35061,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.61/My_Week_0.35.1_61_Fresh.apk",
+  "sha256": "0702a340d5b95c6dcca2262f6a7deb1f935a139ba43ec780dcb6857855e247f8",
   "releaseNotes": [
-    "Edit cupboard now uses the standard My Week secondary button styling.",
-    "The cupboard covered-ingredients banner now has comfortable spacing below the shopping list.",
-    "Existing cupboard quantities, meal plans, shopping checks and account synchronisation are preserved."
+    "Shopping list categories now have visible spacing and collapse by tapping their existing headers.",
+    "All categories open by default, with no extra collapse indicator, and remain closed when checking off ingredients.",
+    "The cupboard-covered ingredients and ticks are vertically centred.",
+    "Existing recipes, cupboard quantities, meals, shopping checks and account synchronisation are preserved."
   ]
 }
