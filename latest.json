@@ -1,12 +1,11 @@
 {
-  "versionName": "0.35.1-qa.61",
-  "versionCode": 35061,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.61/My_Week_0.35.1_61_Fresh.apk",
-  "sha256": "0702a340d5b95c6dcca2262f6a7deb1f935a139ba43ec780dcb6857855e247f8",
+  "versionName": "0.35.1-qa.62",
+  "versionCode": 35062,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.62/My_Week_0.35.1_62_Fresh.apk",
+  "sha256": "06c2cfa111d8b3b6df119a76fe16134782836af44b7ac9e3ced6908ccc1d93f6",
   "releaseNotes": [
-    "Shopping list categories now have visible spacing and collapse by tapping their existing headers.",
-    "All categories open by default, with no extra collapse indicator, and remain closed when checking off ingredients.",
-    "The cupboard-covered ingredients and ticks are vertically centred.",
-    "Existing recipes, cupboard quantities, meals, shopping checks and account synchronisation are preserved."
+    "Shopping list category icons now remain stationary when categories are opened or collapsed.",
+    "The cupboard-covered ingredient list has equal top and bottom spacing, with its text and tick centred precisely.",
+    "Existing recipe data, saved meals, cupboard quantities and cross-device synchronisation remain unchanged."
   ]
 }
