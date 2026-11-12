@@ -1,12 +1,11 @@
 {
-  "versionName": "0.35.1-qa.59",
-  "versionCode": 35059,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.59/My_Week_0.35.1_59_Fresh.apk",
-  "sha256": "e38cef4711911cb791bbd0cd9987b089ceae986de4008c0ed5aa70d2b42c857e",
+  "versionName": "0.35.1-qa.60",
+  "versionCode": 35060,
+  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.60/My_Week_0.35.1_60_Fresh.apk",
+  "sha256": "fda0e7272ff711cce6de1fe646fc041f05c833b9570231b33b540983934361ae",
   "releaseNotes": [
-    "Generate new meals now remembers recently offered dinners and lunches to avoid repeat choices.",
-    "The planner checks a wider variety of affordable meals and avoids repeating costly searches.",
-    "All 3,000 dinners and 252 lunches remain available under the same dietary and kitchen safeguards.",
-    "Existing meal plans, favourites, shopping lists and personal settings are retained."
+    "Edit cupboard now uses the standard My Week secondary button styling.",
+    "The cupboard covered-ingredients banner now has comfortable spacing below the shopping list.",
+    "Existing cupboard quantities, meal plans, shopping checks and account synchronisation are preserved."
   ]
 }
