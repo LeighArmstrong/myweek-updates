@@ -1,11 +1,9 @@
 {
-  "versionName": "0.35.1-qa.63",
-  "versionCode": 35063,
-  "apkUrl": "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.63/My_Week_0.35.1_63_Fresh.apk",
-  "sha256": "a69ea60afd6d5a6b7a1ff95899004f90c0a88e03569b0ec5024dcb56161cf7b6",
-  "releaseNotes": [
-    "Corrected cupboard ingredient alignment relative to the actual visible row separators.",
-    "Text and checkbox now align to the centre of each visible row, including lists of 13 ingredients.",
-    "Preserves the original row height, category icon behaviour, shopping, meals, cupboard quantities and sync."
-  ]
+    "versionName":  "0.35.1-qa.64",
+    "versionCode":  35064,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.64/My_Week_0.35.1_64_Fresh.apk",
+    "sha256":  "b2654e86d3ac94bbd7ccba252125e2f5105b67186dcdfe79cb6a1605d336a5b7",
+    "releaseNotes":  [
+                         "The first illustrated welcome screen now has a smaller, centred Get started button. All other onboarding screens and existing recipes remain unchanged."
+                     ]
 }
