@@ -1,9 +1,10 @@
 {
-    "versionName":  "0.35.1-qa.64",
-    "versionCode":  35064,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.64/My_Week_0.35.1_64_Fresh.apk",
-    "sha256":  "b2654e86d3ac94bbd7ccba252125e2f5105b67186dcdfe79cb6a1605d336a5b7",
+    "versionName":  "0.35.1-qa.65",
+    "versionCode":  35065,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.65/My_Week_0.35.1_65_Fresh.apk",
+    "sha256":  "450b9d9dc90f70ade347d0a3bbd17047939f36045f72df052342b29aa33b6abc",
     "releaseNotes":  [
-                         "The first illustrated welcome screen now has a smaller, centred Get started button. All other onboarding screens and existing recipes remain unchanged."
+                         "Tutorial now progresses promptly when an optional highlight is unavailable.",
+                         "Tutorial step scrolling finishes naturally without unnecessary waiting. Recipes, photos, meal plans and other screens are unchanged."
                      ]
 }
