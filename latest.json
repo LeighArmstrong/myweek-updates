@@ -1,10 +1,10 @@
 {
-    "versionName":  "0.35.1-qa.65",
-    "versionCode":  35065,
-    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.65/My_Week_0.35.1_65_Fresh.apk",
-    "sha256":  "450b9d9dc90f70ade347d0a3bbd17047939f36045f72df052342b29aa33b6abc",
+    "versionName":  "0.35.1-qa.68",
+    "versionCode":  35068,
+    "apkUrl":  "https://github.com/LeighArmstrong/myweek-updates/releases/download/v0.35.1-qa.68/My_Week_0.35.1_68_Fresh.apk",
+    "sha256":  "e25ea56d45d7ae398f44d8b275ff22a53df6c6aec9c63871b3b62a7e3bb8265a",
     "releaseNotes":  [
-                         "Tutorial now progresses promptly when an optional highlight is unavailable.",
-                         "Tutorial step scrolling finishes naturally without unnecessary waiting. Recipes, photos, meal plans and other screens are unchanged."
+                         "The approved green MyWeek icon now fills the icon area without a white border.",
+                         "Android and web app icons have matching branding. Recipes, meal plans, shopping and saved data are unchanged."
                      ]
 }
